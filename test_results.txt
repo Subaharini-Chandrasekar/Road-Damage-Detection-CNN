@@ -1,0 +1,9 @@
+Test images: 103
+Accuracy: 0.9126
+Precision: 0.9020
+Recall: 0.9200
+F1-score: 0.9109
+
+Confusion Matrix:
+[[48  5]
+ [ 4 46]]
