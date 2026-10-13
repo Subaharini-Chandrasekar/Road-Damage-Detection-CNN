@@ -52,9 +52,4 @@ Put the dataset into the folder structure above, then run from the project root:
 
 The trained checkpoint is provided at `outputs/best_model.pth`.
 
-## Reference
-This project was developed as an educational implementation inspired by the
-road-damage CNN repository:
-https://github.com/nisabicebekar/road-damage-detection-cnn
 
-The dataset is stored separately to keep this code package small.
